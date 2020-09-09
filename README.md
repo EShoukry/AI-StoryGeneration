@@ -22,4 +22,5 @@ Although the model did not produce a totally comprehensible output, I was pretty
 
 ## References
 http://deeplearning.net/tutorial/rnnslu.html
+
 https://medium.com/@david.campion/text-generation-using-bidirectional-lstm-and-doc2vec-models-2-3-f0fc07ee7b30
